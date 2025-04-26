@@ -1,4 +1,5 @@
 # Ex No: 03 - Implementation & Analysis of D Flip-Flop using Cadence EDA Tools
+## REG NO 212222060086
 
 ## Aim
 The aim is to design, implement, and analyze a D flip-flop using Cadence EDA tools, ensuring accurate sequential logic operation through waveform analysis and performance verification.
@@ -44,7 +45,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ![image](https://github.com/user-attachments/assets/ddf3603b-bdfd-41f2-8a98-4ad93862fd9f)
 
 ### 2. Schematic of D Flip-Flop
-![Screenshot 2025-03-08 112009](https://github.com/user-attachments/assets/8efca33d-4b20-46de-bf28-e0cbf3bd1a6c)
+![Screenshot (33)](https://github.com/user-attachments/assets/01853738-8f8b-4da2-a56c-3c8aaf8807d2)
 
 
 ### 3. Transient Response Setup
